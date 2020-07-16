@@ -10,6 +10,8 @@ tags
 TAGS
 target
 */target
+*.hprof
+*.hprof.analysis/
 *.todo
 *.swp
 *.log
