@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * VM Args: -XX:PermSize=10M -XX:MaxPermSize=10M
  * -XX:PermSize=10M -XX:MaxPermSize=10M support was removed in 8.0
- * -XX:MetaspaceSize=10M -XX:MaxMetaspaceSize=10M
+ * -Xmx6M -XX:MetaspaceSize=10M -XX:MaxMetaspaceSize=10M
  * @author HWD
  * @date 2020/7/14 10:48
  */
